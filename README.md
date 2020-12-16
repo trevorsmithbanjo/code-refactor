@@ -9,3 +9,13 @@ The purpose of this project is to optimize the clients webpage for better access
 <img src="Develop/assets/images/01-html-css-git-homework-demo.png" alt="original mockup of webpage" width="350" />
 
 ## Task List
+
+- [] When I view the source code, I find semantic HTML elements.
+- [] HTML elements follow logical structure independent of styling and positioning.
+- [] Images contain accessible alt attributes.
+- [] Heading attributes fall in sequential order.
+- [] Concise descriptive title.
+- [] Links function correctly
+- [] CSS selectors and properties consolidated and organized to follow semantic structure.
+- [] CSS file is properly commented
+- [] Application loads with no errors.
