@@ -15,7 +15,7 @@ The purpose of this project is to optimize the clients webpage for better access
 - [x] Images contain accessible alt attributes.
 - [x] Heading attributes fall in sequential order.
 - [x] Concise descriptive title.
-- [] Links function correctly
+- [x] Links function correctly
 - [] CSS selectors and properties consolidated and organized to follow semantic structure.
 - [] CSS file is properly commented
 - [] Application loads with no errors.
