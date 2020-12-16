@@ -6,7 +6,7 @@ The purpose of this project is to optimize the clients webpage for better access
 
 ## Mockup
 
-<img src="Develop/assets/images/01-html-css-git-homework-demo.png" alt="original mockup of webpage" width="350" />
+<img src="Develop/assets/images/01-html-css-git-homework-demo.png" alt="original mockup of webpage" width=350 />
 
 ## Task List
 
