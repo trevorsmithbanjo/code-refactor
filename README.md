@@ -10,7 +10,7 @@ The purpose of this project is to optimize the clients webpage for better access
 
 ## Task List
 
-- [] When I view the source code, I find semantic HTML elements.
+- [x] When I view the source code, I find semantic HTML elements.
 - [] HTML elements follow logical structure independent of styling and positioning.
 - [] Images contain accessible alt attributes.
 - [] Heading attributes fall in sequential order.
