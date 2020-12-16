@@ -12,7 +12,7 @@ The purpose of this project is to optimize the clients webpage for better access
 
 - [x] When I view the source code, I find semantic HTML elements.
 - [x] HTML elements follow logical structure independent of styling and positioning.
-- [] Images contain accessible alt attributes.
+- [x] Images contain accessible alt attributes.
 - [] Heading attributes fall in sequential order.
 - [] Concise descriptive title.
 - [] Links function correctly
