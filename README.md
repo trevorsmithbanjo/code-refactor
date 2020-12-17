@@ -1,4 +1,4 @@
-# 01 Code Refactor
+# Code Refactor
 
 ## Description
 
@@ -6,7 +6,7 @@ The purpose of this project is to optimize the clients webpage for better access
 
 ## Mockup
 
-<img src="Develop/assets/images/01-html-css-git-homework-demo.png" alt="original mockup of webpage" width=350 />
+<img src="Develop/assets/images/01-html-css-git-homework-demo.png" alt="original mockup of webpage" width=400 />
 
 ## Task List
 
@@ -18,4 +18,8 @@ The purpose of this project is to optimize the clients webpage for better access
 - [x] Links function correctly
 - [x] CSS selectors and properties consolidated and organized to follow semantic structure.
 - [x] CSS file is properly commented
-- [] Application loads with no errors.
+- [x] Application loads with no errors.
+
+## Deployed Application Link
+
+[Code Refactor](https://trevorsmithbanjo.github.io/code-refactor/)
