@@ -16,6 +16,6 @@ The purpose of this project is to optimize the clients webpage for better access
 - [x] Heading attributes fall in sequential order.
 - [x] Concise descriptive title.
 - [x] Links function correctly
-- [] CSS selectors and properties consolidated and organized to follow semantic structure.
-- [] CSS file is properly commented
+- [x] CSS selectors and properties consolidated and organized to follow semantic structure.
+- [x] CSS file is properly commented
 - [] Application loads with no errors.
