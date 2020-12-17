@@ -22,4 +22,4 @@ The purpose of this project is to optimize the clients webpage for better access
 
 ## Deployed Application Link
 
-[Code Refactor](https://trevorsmithbanjo.github.io/code-refactor/)
+[Code Refactor](https://trevorsmithbanjo.github.io/homework01/)
